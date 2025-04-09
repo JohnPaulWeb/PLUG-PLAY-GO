@@ -5,6 +5,8 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white">
+
+
     {/* Header */}
     <header className="flex items-center justify-between p-4 border-b border-gray-800">
       <div className="flex items-center">
@@ -29,6 +31,8 @@ export default function Home() {
           </Link>
         </div>
       </div>
+
+      {/* This is Link */}
 
       <div className="flex items-center space-x-4">
           <Link href="#" className="hidden md:block text-white hover:text-gray-300">
@@ -78,6 +82,7 @@ export default function Home() {
 
           </div>
         </div>
+        
 
       </div>
   );
