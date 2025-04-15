@@ -19,6 +19,10 @@ export default function Play() {
       </div>
     </header>
 
+    <div>
+      
+    </div>
+
     {/* Main Content */}
     <main className="container mx-auto p-4">
       {/* Banner */}
