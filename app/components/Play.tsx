@@ -19,8 +19,8 @@ export default function Play() {
       </div>
     </header>
 
-    <div>
-      
+    <div className="">
+
     </div>
 
     {/* Main Content */}
