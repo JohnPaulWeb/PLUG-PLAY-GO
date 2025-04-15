@@ -43,7 +43,7 @@ export default function LoginForm() {
                     <Button variant="outline" className="w-full justify-start gap-2" onClick={() => handleSocialLogin("Google")}>
 
 <Facebook className="h-5 w-5 text-[#4285F4]" />
-Continue with Facebokk
+Continue with Facebook
 </Button>
 
 <Button variant="outline" className="w-full justify-start gap-2" onClick={() => handleSocialLogin("Google")}>
